@@ -10,3 +10,9 @@
 [submodule "bundle/tasklist"]
 	path = bundle/tasklist
 	url = https://github.com/vim-scripts/TaskList.vim.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "pyflakes-pathogen"]
+	path = pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
