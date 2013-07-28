@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/ollie/.oh-my-zsh'
-let g:netrw_dirhist_2='/Users/ollie/.vim'
-let g:netrw_dirhist_3='/Users/ollie/.oh-my-zsh'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ollie/src/workspace/openephyra-0.1.2'
+let g:netrw_dirhist_2='/Users/ollie/src/workspace/openephyra-0.1.2/src'
+let g:netrw_dirhist_3='/Users/ollie/src/lucene-4.3.1/classification'
+let g:netrw_dirhist_4='/Users/ollie/dev/workspace/IceQA/docs/analysis.md'
