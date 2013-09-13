@@ -1,6 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Users/ollie/src/workspace/openephyra-0.1.2'
 let g:netrw_dirhist_2='/Users/ollie/src/workspace/openephyra-0.1.2/src'
 let g:netrw_dirhist_3='/Users/ollie/src/lucene-4.3.1/classification'
 let g:netrw_dirhist_4='/Users/ollie/dev/workspace/IceQA/docs/analysis.md'
+let g:netrw_dirhist_5='/Users/ollie/dev/workspace/IceQA/demo-data/icelandic-answers'
+let g:netrw_dirhist_6='/Users/ollie/Google Drive/ru/2013-2014/fall/reir/Reiknirit/src/d2/41930/894032'
+let g:netrw_dirhist_7='/Users/ollie/dev/workspace/IceQA/demo-data/icelandic-data'
