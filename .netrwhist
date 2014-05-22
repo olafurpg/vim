@@ -1,8 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/usr/local/Cellar/play/2.1.3/libexec/repository/local/org.scala-sbt/run'
-let g:netrw_dirhist_2='/usr/local/Cellar/play/2.1.3/libexec/documentation/api/java/play'
-let g:netrw_dirhist_3='/Applications/sage/devel/sage-main/sage/combinat'
-let g:netrw_dirhist_4='/Users/ollie/Google Drive/ru/2013-2014/fall/reir/Reiknirit/data/s3/C/g'
-let g:netrw_dirhist_5='/Users/ollie/dotfiles_old/.oh-my-zsh'
-let g:netrw_dirhist_6='/Users/ollie/dotfiles/oh-my-zsh'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/ollie/dev/workspace/ordspor/new/ordspor/views/sentences'
+let g:netrw_dirhist_2='/Users/ollie/dev/anglican'
+let g:netrw_dirhist_3='/Users/ollie/dev/workspace/ordspor/new/ordspor/views/annotations'
+let g:netrw_dirhist_4='/Users/ollie/dev/workspace/ordspor/new/ordspor/views/next-sentence'
+let g:netrw_dirhist_5='/Users/ollie/dev/workspace/ordspor/new/ordspor/lists'
+let g:netrw_dirhist_6='/Users/ollie/Documents/mim-gold/vefmidlar'
+let g:netrw_dirhist_7='/Users/ollie/dev/workspace/ordspor/new/ordspor/views/files'
+let g:netrw_dirhist_8='/Users/ollie/dev/workspace/ordspor/new/ordspor/views/by-file'
