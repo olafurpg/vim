@@ -82,3 +82,9 @@
 [submodule "bundle/vim-markdown"]
 	path = bundle/vim-markdown
 	url = https://github.com/plasticboy/vim-markdown.git
+[submodule "bundle/vim-react-snippets"]
+	path = bundle/vim-react-snippets
+	url = https://github.com/justinj/vim-react-snippets.git
+[submodule "bundle/vim-go"]
+	path = bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
