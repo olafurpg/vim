@@ -49,9 +49,6 @@
 [submodule "bundle/vim-fireplace"]
 	path = bundle/vim-fireplace
 	url = https://github.com/tpope/vim-fireplace.git
-[submodule "bundle/LaTeX-Box"]
-	path = bundle/LaTeX-Box
-	url = git://github.com/LaTeX-Box-Team/LaTeX-Box.git
 [submodule "bundle/vim-move"]
 	path = bundle/vim-move
 	url = https://github.com/matze/vim-move.git
